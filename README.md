@@ -1,1 +1,1 @@
-*Bem-vindo(a) ao *CRUDMVC*!!!0
+*Bem-vindo(a) ao *CRUDMVC*!!!
