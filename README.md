@@ -2,4 +2,4 @@
 
 Bem-vindo(a) ao *CRUDMVC*!!!
 
-Atividade para aprendizagem.
+Atividade meramente para aprendizagem.
