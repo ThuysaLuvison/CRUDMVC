@@ -1,5 +1,5 @@
 # CRUDMVC
 
-Bem-vindo(a) ao *CRUDMVC*!!!
+Bem-vindo ao *CRUDMVC*!!!
 
 Atividade meramente para aprendizagem.
